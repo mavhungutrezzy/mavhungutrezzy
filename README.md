@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adivhaho Mavhungu</h1>
-<h3 align="center">I’m a Student studying at the University of Cape Town, pursuing bachelors of science degrees in both Computer Science and Statistics. I’m an aspiring Machine Learning Engineer with interests in Data Mining, Distributed Systems, and High Performance Computing.</h3>
+<h3 align="center">I’m a student studying at the University of Cape Town, pursuing a bachelor of science degree in both Computer Science and Statistics. I’m an aspiring Machine Learning Engineer with an interest in Data Mining, Distributed Systems, and High-Performance Computing.</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
 

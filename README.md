@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adivhaho Mavhungu</h1>
 <h3 align="center">I’m a student studying at the University of Cape Town, pursuing a bachelor of science degree in both Computer Science and Statistics. I’m an aspiring Machine Learning Engineer with an interest in Data Mining, Distributed Systems, and High-Performance Computing.</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django and Bulma CSS**
 
 - 👨‍💻 All of my projects are available at [mavhungu.me](mavhungu.me)
 

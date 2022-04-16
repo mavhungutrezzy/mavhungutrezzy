@@ -3,13 +3,13 @@
 
 ![](https://komarev.com/ghpvc/?username=mavhungutrezzy)
 
-- 🌱 I’m currently learning **Django and Bulma CSS**
+- 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [mavhungu.me](mavhungu.me)
+- 👨‍💻 All of my projects are available at [mavhungu.me](mavhungu.m)
 
 - 📫 How to reach me **Mavhungutrezzy@gmail.com**
 
-- 📄 Know about my experiences [mavhungu.me/resume](mavhungu.me/resume)
+- 📄 Know about my experiences [mavhungu.me/resume](mavhungu.m/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

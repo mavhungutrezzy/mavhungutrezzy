@@ -2,7 +2,7 @@
 
 ## Hey there 👋
 
-I’m a student studying at the University of Cape Town, pursuing a bachelor of science degree in both Computer Science and Statistics. I’m an aspiring Machine Learning Engineer with an interest in Data Mining, Distributed Systems, and High-Performance Computing. 
+I’m an aspiring Machine Learning Engineer with an interest in Data Mining, Distributed Systems, and High-Performance Computing. 
 
 ---
 ## Past Experience ✨

@@ -12,7 +12,6 @@ I’m an aspiring Machine Learning Engineer with an interest in Data Mining, Dis
  ---
 ## Education Formal and Informal ✨
 
-* Computer Science & Statistics @ The University of Cape Town
 * Python, Flutter, Java etc certificates @ Linkedin
 ---
 ## 2022 Goals ✨

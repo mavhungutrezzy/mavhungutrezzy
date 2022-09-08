@@ -5,7 +5,7 @@
    - I love writing clean, maintainable, and high-performance code
 
 
-- 🌱 Currently working on [application tracker project](https://github.com/mavhungutrezzy/ApplicationTracker)
+- 🌱 Currently working on [application tracker project](https://github.com/mavhungutrezzy/Traceify)
 - 🤝 I’m looking to collaborate on anything! Feel free to reach out if you've got a cool project!
 - 📫 Reach me by contacting my email: mavhungutrezzy@gmail.com
 

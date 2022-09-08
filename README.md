@@ -2,6 +2,9 @@
 - 👋 Hi, I’m @mavhungutrezzy
 - 👀 I’m interested in full-stack development, mobile engineering, and back-end web services
    - For one reason or another, I am really enjoying writing code with Python right now.
+   - I love writing clean, maintainable, and high-performance code
+
+
 - 🌱 Currently working on [application tracker project](https://github.com/mavhungutrezzy/ApplicationTracker)
 - 🤝 I’m looking to collaborate on anything! Feel free to reach out if you've got a cool project!
 - 📫 Reach me by contacting my email: mavhungutrezzy@gmail.com

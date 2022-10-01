@@ -1,5 +1,5 @@
 ## 💭 About
-- 👋 Hi, I’m @mavhungutrezzy
+- 👋 Hi, I’m Adivhaho Mavhungu
 - 👀 I’m interested in full-stack development, mobile engineering, and back-end web services
    - For one reason or another, I am really enjoying writing code with Python right now.
    - I love writing clean, maintainable, and high-performance code

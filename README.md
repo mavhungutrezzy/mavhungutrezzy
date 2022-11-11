@@ -1,7 +1,7 @@
 ![](https://i.ibb.co/jrCfY7r/White-Futuristic-Technology-Linked-In-Banner-1.png)
 ## 💭 About
 I'm a software developer interested in full-stack web development, big data, and
-machine learning. For one reason or another, | enjoy writing code that is both
+machine learning. For one reason or another, I enjoy writing code that is both
 maintainable and elegant. The ability to create small programs with elegant
 solutions to problems never ceases to amaze me, and I'm always interested in
 learning more about the newest tools and trends in the software industry.
@@ -10,7 +10,7 @@ I have practical experience developing full-stack web solutions in Python, using
 Django and Flask as the framework. I'm also experienced in developing REST APIs
 using Django Rest Framework.
 
-I'm open to any opportunity where | can continue learning and work on interesting ;
+I'm open to any opportunity where i can continue learning and work on interesting
 projects. If you're looking for someone who can work independently but is also a
 team player, you've come to the right place.
 

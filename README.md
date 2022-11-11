@@ -1,3 +1,4 @@
+![](https://i.ibb.co/jrCfY7r/White-Futuristic-Technology-Linked-In-Banner-1.png)
 ## 💭 About
 - 👋 Hi, I’m Adivhaho Mavhungu
 - 👀 I’m interested in full-stack development, mobile engineering, and back-end web services

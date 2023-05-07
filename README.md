@@ -1,4 +1,4 @@
-![](https://i.ibb.co/jrCfY7r/White-Futuristic-Technology-Linked-In-Banner-1.png)
+<img src="https://i.ibb.co/jrCfY7r/White-Futuristic-Technology-Linked-In-Banner-1.png">
 
 👋 Hey there! I'm a Python backend developer who loves building scalable and performant web applications. 
 

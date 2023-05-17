@@ -2,7 +2,7 @@
 
 👋 Hey there! I'm a Python backend developer who loves building scalable and performant web applications. 
 
-🔨 I'm currently focusing on learning Angular to expand my front-end development skills and create more interactive user interfaces. 
+🔨 I'm currently focusing on learning Angular and TypeScript to expand my front-end development skills and create more interactive user interfaces. 
 
 💻 My areas of expertise include Python, Django, Flask, SQL, Docker, MongoDB, FastAPI and RESTful APIs. 
 

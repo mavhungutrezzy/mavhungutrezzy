@@ -1,4 +1,4 @@
-👋 Hey there! I'm a software developer with a passion for crafting sleek and efficient web applications. My current focus is on Flutter for creating user-friendly interfaces and Python for robust backend development.
+👋 Hey there! I'm a software developer with a passion for crafting sleek and efficient web applications. My current focus is on Flutter and Angular for creating user-friendly interfaces and Python for robust backend development.
 
 🛠️ I take pride in writing clean, maintainable code that adheres to RESTful design principles and seamlessly integrates with databases. Here's a glimpse of my skills:
 
@@ -8,7 +8,7 @@
 - 🐳 **Containerization**: Docker
 - 📝 **API Design**: OpenAPI 3, Insomnia
 
-💼 My expertise spans various technologies, and I specialize in Flask for backend web development and database management. If you have a specific tech stack in mind, feel free to ask!
+💼 My expertise spans various technologies, and I specialize in Python for backend web development and database management. If you have a specific tech stack in mind, feel free to ask!
 
 🌱 When I'm not coding, you might find me tending to my garden or getting lost in the great outdoors, connecting with the environment.
 

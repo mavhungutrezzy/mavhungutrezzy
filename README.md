@@ -1,24 +1,24 @@
-👋 Greetings! I'm a dedicated software developer driven by a passion for crafting elegant and efficient web applications. My current focus revolves around mastering the art of Flutter and Angular to create user-friendly interfaces, along with harnessing the power of Python for robust backend development.
 
-🛠️ I take great pride in my ability to write clean, maintainable code that adheres faithfully to RESTful design principles and effortlessly integrates with databases. Here's a snapshot of my skill set:
+👋 Hey there! I'm passionate about crafting efficient web applications, specializing in Django for robust backend development.
 
-- 🔨 **Frontend**: Proficient in Flutter and Angular
-- 🔧 **Backend**: Experienced with Python, Flask, and Django
-- 🗄️ **Databases**: Well-versed in SQL, Postgres, and MongoDB
-- 🐳 **Containerization**: Skilled in Docker
-- 📝 **API Design**: Proficient in OpenAPI 3 and Insomnia
+🛠️ **Skills Snapshot**:
+- 🔧 **Backend**: Python, Django, Flask
+- 🗄️ **Databases**: SQL, Postgres, MongoDB
+- 📝 **API Design**: OpenAPI 3, Insomnia
+- 🐳 **Tools**: Docker
+- 💼 **Expertise**: Python backend & database management
 
-💼 My expertise extends across various technologies, with a particular specialization in Python for backend web development and database management. If you have a specific tech stack in mind, don't hesitate to inquire!
+🌱 Beyond coding, I nurture my connection with nature through gardening and outdoor adventures.
 
-🌱 When I'm not immersed in code, you might spot me tending to my garden or embarking on adventures in the great outdoors, nurturing my connection with the natural world.
+📬 Let's connect:
 
-📬 Whether you have questions or an exciting project in mind, please feel free to reach out via:
+[![Twitter Badge](https://img.shields.io/badge/Twitter-%40adivhaho__dev-blue?style=flat&logo=twitter)](https://twitter.com/adivhaho_dev)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-adivhaho.dev-ff69b4?style=flat&logo=instagram)](https://www.instagram.com/adivhaho.dev)
+[![Discord Badge](https://img.shields.io/badge/Discord-Creedorian%2428-lightgrey?style=flat&logo=discord)](https://discord.com/Creedorian#2428)
 
-- Twitter: [@adivhaho_dev](https://twitter.com/adivhaho_dev)
-- Portfolio: [mavhungutrezzy.github.io](https://mavhungutrezzy.github.io/)
+---
 
-Let's collaborate and create something extraordinary! 🚀🌿
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mavhungutrezzy&show_icons=true&include_all_commits=true&theme=algolia)
+[![mavhungutrezzy's GitHub | Stats](https://stats.quine.sh/mavhungutrezzy/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=mavhungutrezzy)
+[![mavhungutrezzy's Stack Overflow | Stats](https://stats.quine.sh/mavhungutrezzy/stack-overflow?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=mavhungutrezzy)
 
-<p align="center"><img src="https://github.com/mavhungutrezzy/mavhungutrezzy/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/></p>

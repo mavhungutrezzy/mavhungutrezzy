@@ -1,16 +1,16 @@
-
-👋 Hey there! I'm passionate about crafting efficient web applications, specializing in Django for robust backend development.
+👋 Hey there! I'm passionate about crafting powerful backend solutions and diving into the world of web scraping and RESTful API design. Django and Flask are my go-to tools for building robust backend architectures that drive efficient web applications.
 
 🛠️ **Skills Snapshot**:
-- 🔧 **Backend**: Python, Django, Flask
-- 🗄️ **Databases**: SQL, Postgres, MongoDB
-- 📝 **API Design**: OpenAPI 3, Insomnia
-- 🐳 **Tools**: Docker
-- 💼 **Expertise**: Python backend & database management
+- 🔧 **Backend Development**: Python, Django, Flask
+- 🕸️ **Web Scraping**: Beautiful Soup, Scrapy
+- 🗄️ **Database Management**: SQL, Postgres, MongoDB
+- 📝 **API Design**: Django Rest Framework, Flask-Restful
+- 🐳 **Containerization**: Docker
+- 💼 **Expertise**: Python backend, API design, database management
 
-🌱 Beyond coding, I nurture my connection with nature through gardening and outdoor adventures.
+🌱 Beyond the digital realm, I find solace in nature through gardening and love exploring the great outdoors. There's a fascinating parallel between nurturing a garden and cultivating code—it's all about patience, precision, and seeing something flourish from scratch.
 
-📬 Let's connect:
+Let's connect and chat about backend magic, web scraping adventures, or swap gardening tips! 📬
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-%40adivhaho__dev-blue?style=flat&logo=twitter)](https://twitter.com/adivhaho_dev)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-adivhaho.dev-ff69b4?style=flat&logo=instagram)](https://www.instagram.com/adivhaho.dev)

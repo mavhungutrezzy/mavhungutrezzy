@@ -1,4 +1,4 @@
-# 👩‍💻 Seasoned Backend Developer | Data Engineer Enthusiast | 🌍 South Africa
+# 👩‍💻 Seasoned Backend Developer | Data Engineer Enthusiast 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/adivhaho-mavhungu">LinkedIn</a> | <a href="https://twitter.com/Adivhaho_dev">Twitter</a> | Email: adivhahomavhungu@outlook.com

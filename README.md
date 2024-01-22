@@ -1,20 +1,71 @@
-👋 Hey there! I'm passionate about crafting powerful backend solutions and diving into the world of web scraping and RESTful API design. Django and Flask are my go-to tools for building robust backend architectures that drive efficient web applications.
+# Adivhaho Mavhungu
 
-🛠️ **Skills Snapshot**:
-- 🔧 **Backend Development**: Python, Django, Flask
-- 🕸️ **Web Scraping**: Beautiful Soup, Scrapy
-- 🗄️ **Database Management**: SQL, Postgres, MongoDB
-- 📝 **API Design**: Django Rest Framework, Flask-Restful
-- 🐳 **Containerization**: Docker
-- 💼 **Expertise**: Python backend, API design, database management
+## 👩‍💻 Data Science Trainee | Backend Developer | 🌍 South Africa
 
-🌱 Beyond the digital realm, I find solace in nature through gardening and love exploring the great outdoors. There's a fascinating parallel between nurturing a garden and cultivating code—it's all about patience, precision, and seeing something flourish from scratch.
+---
 
-Let's connect and chat about backend magic, web scraping adventures, or swap gardening tips! 📬
+### 🌐 About Me
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-%40adivhaho__dev-blue?style=flat&logo=twitter)](https://twitter.com/adivhaho_dev)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-adivhaho.dev-ff69b4?style=flat&logo=instagram)](https://www.instagram.com/adivhaho.dev)
-[![Discord Badge](https://img.shields.io/badge/Discord-Creedorian%2428-lightgrey?style=flat&logo=discord)](https://discord.com/Creedorian#2428)
+Hello! I'm Adivhaho Mavhungu, a passionate individual from South Africa currently pursuing a Data Science Trainee program at Explore Data Science Academy. Alongside my data science journey, I'm well-versed in backend development, specializing in Python, Flask, and Django. Excited about the convergence of data science and backend technologies.
+
+### 📚 Education
+
+**Explore Data Science Academy (EDSA)** - Data Science Trainee  
+*Current, Jan 2024 - Present*
+
+### 💻 Skills
+
+#### Data Science
+
+- **Programming Languages:** Python, R
+- **Data Analysis:** Pandas, NumPy
+- **Machine Learning:** Scikit-Learn
+- **Visualization:** Matplotlib, Seaborn
+
+#### Backend Development
+
+- **Languages:** Python
+- **Frameworks:** Flask, Django
+- **Database:** SQL (MySQL, PostgreSQL)
+
+### 🚀 Projects
+
+- **1. Predictive Modeling:**  
+  - Developed a predictive model for [Project Name] achieving [X]% accuracy.  
+  - [Link to Project](https://github.com/your-username/project-link)  
+  - **Tools Used:** Scikit-Learn, Pandas, Matplotlib
+
+- **2. Data Visualization:**  
+  - Created insightful visualizations for [Project Name], enhancing data understanding.  
+  - [Link to Project](https://github.com/your-username/project-link)  
+  - **Tools Used:** Matplotlib, Seaborn
+
+- **3. Web Development:**  
+  - Built and deployed web applications using Flask and Django for [Project Name].  
+  - [Link to Project](https://github.com/your-username/project-link)  
+  - **Tools Used:** Flask, Django, SQL
+
+### 📜 Certifications
+
+- **Certified Data Scientist:** [Certification Issuer, Year]
+- **Backend Development with Flask:** [Certification Issuer, Year]
+- **Database Management with SQL:** [Certification Issuer, Year]
+
+### 🌐 Portfolio
+
+Explore more about my work and projects on my [Portfolio](https://your-portfolio-link.com).
+
+### 🎯 Career Goal
+
+My focus is on integrating data science and backend development skills to contribute to comprehensive, end-to-end solutions. I am enthusiastic about leveraging technology to solve real-world problems and make a meaningful impact.
+
+### 📫 Let's Connect
+
+- **LinkedIn:** [Adivhaho Mavhungu's LinkedIn](https://www.linkedin.com/in/adivhaho-mavhungu)
+- **Twitter:** [@Adivhaho_DS](https://twitter.com/Adivhaho_DS)
+- **Email:** adivhaho@email.com
+
+Feel free to connect with me if you're interested in data science, backend development, or if you have exciting opportunities to discuss. Let's collaborate and innovate!
 
 ---
 

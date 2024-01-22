@@ -21,6 +21,25 @@ Hello! I'm a seasoned Backend Developer who appreciates crafting good quality co
 - Contributed to the development of ETL processes to streamline data flow within the organization.
 - Participated in data warehouse design and maintenance, ensuring efficient data storage and retrieval.
 
+
+### Education
+
+**Explore Data Science Academy (EDSA)** - Data Science Trainee  
+*Current, Jan 2024 - Present*
+
+- Overview:
+  - Intensive, hands-on data science training program.
+  - Comprehensive curriculum covering data analysis, machine learning, statistical concepts, Python programming, SQL, and data visualization.
+
+- **Coursework:**
+  - *Build Dashboard with PowerBI*: Designed and implemented interactive dashboards for data visualization using PowerBI.
+  - *Spreedshetss (Spreadsheets)*: Applied advanced spreadsheet functions and formulas for data manipulation and analysis.
+  - *Unsupervised Learning*: Explored algorithms and techniques for uncovering patterns in unlabeled data, including clustering and dimensionality reduction.
+  - *Supervised Machine Learning*: Implemented supervised learning algorithms for classification and regression tasks, optimizing model performance.
+  - *SQL (Structured Query Language)*: Proficient in querying relational databases, creating and optimizing SQL queries for data retrieval and manipulation.
+  - *Database Design*: Designed efficient and scalable database structures, exploring normalization, indexing, and optimization strategies.
+
+
 ### 💻 Skills
 
 #### Data Science
@@ -41,17 +60,17 @@ Hello! I'm a seasoned Backend Developer who appreciates crafting good quality co
 - **1. Predictive Modeling:**  
   - Developed a predictive model for [Project Name] achieving [X]% accuracy.  
   - [Link to Project](https://github.com/your-username/project-link)  
-  - **Tools Used:** Scikit-Learn, Pandas, Matplotlib
+  - _**Tools Used:** Scikit-Learn, Pandas, Matplotlib_
 
 - **2. Data Visualization:**  
   - Created insightful visualizations for [Project Name], enhancing data understanding.  
   - [Link to Project](https://github.com/your-username/project-link)  
-  - **Tools Used:** Matplotlib, Seaborn
+  - _**Tools Used:** Matplotlib, Seaborn_
 
 - **3. Web Development:**  
   - Built and deployed web applications using Flask and Django for [Project Name].  
   - [Link to Project](https://github.com/your-username/project-link)  
-  - **Tools Used:** Flask, Django, SQL
+  - _**Tools Used:** Flask, Django, SQL_
 
 ### 📜 Certifications
 
@@ -63,14 +82,5 @@ Hello! I'm a seasoned Backend Developer who appreciates crafting good quality co
 
 Explore more about my work and projects on my [Portfolio](https://your-portfolio-link.com).
 
-### 🎯 Career Goal
-
-My focus is on integrating data science and backend development skills to contribute to comprehensive, end-to-end solutions. I am enthusiastic about leveraging technology to solve real-world problems and make a meaningful impact.
-
-### 📫 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/adivhaho-mavhungu)
-- [Twitter](https://twitter.com/Adivhaho_DS)
-- Email: adivhaho@email.com
 
 Feel free to connect with me if you're interested in data science, backend development, or if you have exciting opportunities to discuss. Let's collaborate and innovate!

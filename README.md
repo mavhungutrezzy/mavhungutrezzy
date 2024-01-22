@@ -1,17 +1,15 @@
-# Adivhaho Mavhungu
-
-## 👩‍💻 Data Science Trainee | Backend Developer | 🌍 South Africa
+# 👩‍💻 Data Science Trainee | Backend Developer | 🌍 South Africa
 
 ---
 
 ### 🌐 About Me
 
-Hello! I'm Adivhaho Mavhungu, a passionate individual from South Africa currently pursuing a Data Science Trainee program at Explore Data Science Academy. Alongside my data science journey, I'm well-versed in backend development, specializing in Python, Flask, and Django. Excited about the convergence of data science and backend technologies.
+Hello! I'm a passionate individual from South Africa currently pursuing a Data Science Trainee program at Explore Data Science Academy. Alongside my data science journey, I'm well-versed in backend development, specializing in Python, Flask, and Django. Excited about the convergence of data science and backend technologies.
 
 ### 📚 Education
 
 **Explore Data Science Academy (EDSA)** - Data Science Trainee  
-*Current, Jan 2024 - Present*
+*Current, [Month Year] - Present*
 
 ### 💻 Skills
 
@@ -61,15 +59,8 @@ My focus is on integrating data science and backend development skills to contri
 
 ### 📫 Let's Connect
 
-- **LinkedIn:** [Adivhaho Mavhungu's LinkedIn](https://www.linkedin.com/in/adivhaho-mavhungu)
-- **Twitter:** [@Adivhaho_DS](https://twitter.com/Adivhaho_DS)
-- **Email:** adivhaho@email.com
+- [LinkedIn](https://www.linkedin.com/in/adivhaho-mavhungu)
+- [Twitter](https://twitter.com/Adivhaho_DS)
+- Email: adivhaho@email.com
 
 Feel free to connect with me if you're interested in data science, backend development, or if you have exciting opportunities to discuss. Let's collaborate and innovate!
-
----
-
-
-[![mavhungutrezzy's GitHub | Stats](https://stats.quine.sh/mavhungutrezzy/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=mavhungutrezzy)
-[![mavhungutrezzy's Stack Overflow | Stats](https://stats.quine.sh/mavhungutrezzy/stack-overflow?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=mavhungutrezzy)
-

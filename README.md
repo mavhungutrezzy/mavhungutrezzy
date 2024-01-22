@@ -42,41 +42,44 @@ Hello! I'm a seasoned Backend Developer who appreciates crafting good quality co
 
 ### 💻 Skills
 
-#### Data Science
+### 💻 Skills
+
+#### Data Science & Engineering
 
 - **Programming Languages:** Python, SQL
 - **Data Analysis:** Pandas, NumPy
 - **Machine Learning:** Scikit-Learn
 - **Visualization:** Matplotlib, Seaborn
+- **Dashboarding:** PowerBI
+- **Spreadsheet Analysis:** Excel, Google Sheets
 
 #### Backend Development
 
 - **Languages:** Python, JavaScript
 - **Frameworks:** Flask, Django
 - **Database:** SQL (MySQL, PostgreSQL), MongoDB
+- **Version Control:** Git
+- **RESTful API Development:** FastAPI, Express.js
+- **Containerization:** Docker
 
 ### 🚀 Projects
 
-- **1. Predictive Modeling:**  
+- **[Predictive Modeling](https://github.com/your-username/project-link):**
   - Developed a predictive model for [Project Name] achieving [X]% accuracy.  
-  - [Link to Project](https://github.com/your-username/project-link)  
   - _**Tools Used:** Scikit-Learn, Pandas, Matplotlib_
 
-- **2. Data Visualization:**  
+- **[Data Visualization]():**  
   - Created insightful visualizations for [Project Name], enhancing data understanding.  
-  - [Link to Project](https://github.com/your-username/project-link)  
   - _**Tools Used:** Matplotlib, Seaborn_
 
-- **3. Web Development:**  
+- **[Web Development]():**  
   - Built and deployed web applications using Flask and Django for [Project Name].  
-  - [Link to Project](https://github.com/your-username/project-link)  
   - _**Tools Used:** Flask, Django, SQL_
 
 ### 📜 Certifications
 
-- **Certified Data Scientist:** [Certification Issuer, Year]
-- **Backend Development with Flask:** [Certification Issuer, Year]
-- **Database Management with SQL:** [Certification Issuer, Year]
+- **Certified Data Scientist:** Coursera, 2024
+- **Database Management with SQL:** Coursera, 2024
 
 ### 🌐 Portfolio
 

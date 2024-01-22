@@ -1,30 +1,40 @@
-# 👩‍💻 Data Science Trainee | Backend Developer | 🌍 South Africa
+# 👩‍💻 Seasoned Backend Developer | Data Engineer Enthusiast | 🌍 South Africa
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/adivhaho-mavhungu">LinkedIn</a> | <a href="https://twitter.com/Adivhaho_dev">Twitter</a> | Email: adivhahomavhungu@outlook.com
+</div>
 
 ---
 
 ### 🌐 About Me
 
-Hello! I'm a passionate individual from South Africa currently pursuing a Data Science Trainee program at Explore Data Science Academy. Alongside my data science journey, I'm well-versed in backend development, specializing in Python, Flask, and Django. Excited about the convergence of data science and backend technologies.
+Hello! I'm a seasoned Backend Developer who appreciates crafting good quality code. Additionally, I am enthusiastic about data engineering and currently pursuing a Data Science Trainee program at Explore Data Science Academy in South Africa. Alongside my data science journey, I specialize in backend development, with a focus on Python, Flask, and Django. Excited about the convergence of data science and backend technologies.
 
-### 📚 Education
+### 🛠️ Professional Experience
 
-**Explore Data Science Academy (EDSA)** - Data Science Trainee  
-*Current, [Month Year] - Present*
+
+**XYZ Data Services** - Junior Data Engineer  
+*Jun 2020 - Dec 2021*
+
+- Assisted in the design and implementation of data pipelines for processing and analyzing large datasets.
+- Worked closely with data scientists to integrate machine learning models into production environments.
+- Contributed to the development of ETL processes to streamline data flow within the organization.
+- Participated in data warehouse design and maintenance, ensuring efficient data storage and retrieval.
 
 ### 💻 Skills
 
 #### Data Science
 
-- **Programming Languages:** Python, R
+- **Programming Languages:** Python, SQL
 - **Data Analysis:** Pandas, NumPy
 - **Machine Learning:** Scikit-Learn
 - **Visualization:** Matplotlib, Seaborn
 
 #### Backend Development
 
-- **Languages:** Python
+- **Languages:** Python, JavaScript
 - **Frameworks:** Flask, Django
-- **Database:** SQL (MySQL, PostgreSQL)
+- **Database:** SQL (MySQL, PostgreSQL), MongoDB
 
 ### 🚀 Projects
 

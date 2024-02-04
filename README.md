@@ -81,7 +81,7 @@ Hello! I'm a seasoned Backend Developer who appreciates crafting good quality co
 
 ### 🌐 Portfolio
 
-Explore more about my work and projects on my [Portfolio](https://your-portfolio-link.com).
+Explore more about my work and projects on my [Portfolio](https://mavhungutrezzy.github.io/).
 
 
 Feel free to connect with me if you're interested in data science, or backend development, or if you have exciting opportunities to discuss. Let's collaborate and innovate!

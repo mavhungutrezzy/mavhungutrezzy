@@ -20,9 +20,9 @@ When I'm not diving into data or coding, you can find me indulging in my love fo
 
 ## 🚀 Cool Projects
 
-- [E-commerce Data Pipeline](https://github.com/ecommerce-data-pipeline) - Handling massive data loads into Redshift.
-- [Real-time Analytics API](https://github.com/adivhaho/realtime-analytics-api) - Lightning-fast analytics with FastAPI.
-- [Crypto Trading Bot](https://github.com/adivhaho/crypto-trader-bot) - Letting the bots handle crypto trading.
+- [E-commerce Data Pipeline](https://github.com/mavhungutrezzy/ecommerce-data-pipeline) - Handling massive data loads into Redshift.
+- [Real-time Analytics API](https://github.com/mavhungutrezzy/realtime-analytics-api) - Lightning-fast analytics with FastAPI.
+- [Crypto Trading Bot](https://github.com/mavhungutrezzy/crypto-trader-bot) - Letting the bots handle crypto trading.
 - [Pomodoro Task API](https://github.com/mavhungutrezzy/pomodo_task) - A RESTful API built with Django and DRF for managing tasks and Pomodoro timers. Includes features like task CRUD, Pomodoro timer controls, and user authentication.
 
 ## 👯‍♀️ Collaboration Interests

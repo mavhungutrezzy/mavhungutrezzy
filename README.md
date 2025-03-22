@@ -1,43 +1,41 @@
 # Adivhaho Mavhungu
 
-## 👋 Introduction
+## Python Developer & ML Practitioner
 
-Welcome to my little corner of the internet! I'm Adivhaho, a data specialist and experienced backend developer. I analyze data, integrate systems, manage big data, and build data-driven software. I'm committed to automation, innovation, and global collaboration.
+```
+Backend development | Data engineering | Machine learning
+```
 
-When I'm not diving into data or coding, you can find me indulging in my love for food or exploring the wonders of nature.
+## Technical Skills
 
-## 💻 Skills and Expertise
+### Core Development
+- Python, Django, FastAPI, Django REST Framework
+- PostgreSQL, SQL optimization
+- Gunicorn, Railway deployment
 
-**Languages:** Python, SQL
+### Infrastructure & Monitoring
+- Cloudflare CDN/DNS
+- Error tracking: Bugsnag
+- Performance monitoring: APMScout
+- SEO implementation
 
-**Frameworks & Tools:** Pandas, NumPy, Django, Flask
+### Data & Machine Learning
+- Data analysis: pandas, NumPy
+- Machine learning: scikit-learn, TensorFlow  
+- Model development and deployment
+- Data visualization and reporting
 
-**Cloud & Tech Stack:** AWS (EC2, Lambda, Athena, Glue), GCP, Docker, Apache Spark, Apache Airflow
+## Professional Focus
 
-**Databases and Warehouses:** PostgreSQL, MySQL, MongoDB, Snowflake, BigQuery
+I specialize in building reliable web applications with clean, maintainable codebases. My work combines:
 
-**Additional Skills:** CI/CD, Git, Linux, Agile Methodologies
+- Developing robust backends with Django/FastAPI
+- Creating efficient database designs and queries
+- Implementing practical machine learning solutions
+- Ensuring application performance and reliability
 
-## 🚀 Cool Projects
+My approach emphasizes solving real business problems through appropriate technology choices rather than chasing the latest trends.
 
-- [E-commerce Data Pipeline](https://github.com/mavhungutrezzy/ecommerce-data-pipeline) - Handling massive data loads into Redshift.
-- [Real-time Analytics API](https://github.com/mavhungutrezzy/realtime-analytics-api) - Lightning-fast analytics with FastAPI.
-- [Crypto Trading Bot](https://github.com/mavhungutrezzy/crypto-trader-bot) - Letting the bots handle crypto trading.
-- [Pomodoro Task API](https://github.com/mavhungutrezzy/pomodo_task) - A RESTful API built with Django and DRF for managing tasks and Pomodoro timers. Includes features like task CRUD, Pomodoro timer controls, and user authentication.
+---
 
-## 👯‍♀️ Collaboration Interests
-
-- Scaling up data systems and making them rock-solid.
-- Crafting APIs that work seamlessly and securely.
-- Getting machine learning models out into the real world.
-- Exploring cool open-source tools for data science and nature. 🌴
-
-## 📚 Currently Reading
-
-- `Becoming a Data Head` by Alex J. Gutman & Jordan Goldmeier - A fascinating book exploring successful data leaders' mindsets and thought processes.
-
-## 📫 Contact
-
-- Twitter: [@adivhaho](https://twitter.com/adivhaho_dev)
-- LinkedIn: [adivhaho mavhungu](https://linkedin.com/in/adivhaho-mavhungu)
-- Email: adivhahomavhungu@outlook.com
+*Building systems that work reliably and scale sensibly*

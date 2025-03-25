@@ -3,7 +3,7 @@
 ## Python Developer & ML Practitioner
 
 ```
-Backend development | Data engineering | Machine learning
+Backend development | Data Scientist | Machine learning
 ```
 
 ## Technical Skills
@@ -14,9 +14,9 @@ Backend development | Data engineering | Machine learning
 - Gunicorn, Railway deployment
 
 ### Infrastructure & Monitoring
-- Cloudflare CDN/DNS
-- Error tracking: Bugsnag
-- Performance monitoring: APMScout
+- Cloudflare
+- Error tracking: Bugsnag, Sentry
+- Performance monitoring: APMScout, Sentry
 - SEO implementation
 
 ### Data & Machine Learning
